@@ -1,0 +1,2 @@
+ekf_pose:px4ctrl:utils/cmake_utils:utils/quadrotor_msgs:utils/uav_utils:vrpn_client_ros-kinetic-devel
+-DCATKIN_DEVEL_PREFIX=/home/chenyeke/real_ws/devel -DCMAKE_INSTALL_PREFIX=/home/chenyeke/real_ws/install -G Unix Makefiles

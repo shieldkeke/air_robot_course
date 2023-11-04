@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chenyeke/ros_simulationfor16/ros_simulation/controller_sim/src/Utils/pose_utils/include/pose_utils.h
+iostream
+-
+armadillo
+/home/chenyeke/ros_simulationfor16/ros_simulation/controller_sim/src/Utils/pose_utils/include/armadillo
+
+/home/chenyeke/ros_simulationfor16/ros_simulation/controller_sim/src/Utils/pose_utils/src/pose_utils.cpp
+pose_utils.h
+/home/chenyeke/ros_simulationfor16/ros_simulation/controller_sim/src/Utils/pose_utils/src/pose_utils.h
+

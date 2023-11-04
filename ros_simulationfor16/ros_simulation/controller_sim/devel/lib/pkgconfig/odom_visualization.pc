@@ -1,0 +1,8 @@
+prefix=/home/chenyeke/ros_simulationfor16/ros_simulation/controller_sim/devel
+
+Name: odom_visualization
+Description: Description of odom_visualization
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs nav_msgs std_msgs visualization_msgs tf pose_utils

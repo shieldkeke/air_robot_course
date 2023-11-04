@@ -1,0 +1,8 @@
+prefix=/home/chenyeke/ros_simulationfor16/ros_simulation/controller_sim/install
+
+Name: uav_utils
+Description: Description of uav_utils
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy

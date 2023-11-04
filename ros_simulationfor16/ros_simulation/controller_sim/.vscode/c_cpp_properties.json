@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/chenyeke/ros_simulationfor16/ros_simulation/controller_sim/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/chenyeke/ros_simulationfor16/ros_simulation/controller_sim/src/Utils/pose_utils/include/**",
+        "/home/chenyeke/ros_simulationfor16/ros_simulation/controller_sim/src/Utils/quadrotor_msgs/include/**",
+        "/home/chenyeke/ros_simulationfor16/ros_simulation/controller_sim/src/so3_control/include/**",
+        "/home/chenyeke/ros_simulationfor16/ros_simulation/controller_sim/src/so3_quadrotor_simulator/include/**",
+        "/home/chenyeke/ros_simulationfor16/ros_simulation/controller_sim/src/Utils/uav_utils/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

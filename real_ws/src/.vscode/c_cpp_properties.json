@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/chenyeke/real_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/chenyeke/real_ws/src/ekf_pose/include/**",
+        "/home/chenyeke/real_ws/src/utils/quadrotor_msgs/include/**",
+        "/home/chenyeke/real_ws/src/utils/uav_utils/include/**",
+        "/home/chenyeke/real_ws/src/vrpn_client_ros-kinetic-devel/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

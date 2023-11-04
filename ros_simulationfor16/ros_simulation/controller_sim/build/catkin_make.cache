@@ -1,0 +1,2 @@
+Utils/cmake_utils:Utils/odom_visualization:Utils/pose_utils:Utils/quadrotor_msgs:Utils/uav_utils:so3_control:so3_quadrotor_simulator
+-DCATKIN_DEVEL_PREFIX=/home/chenyeke/ros_simulationfor16/ros_simulation/controller_sim/devel -DCMAKE_INSTALL_PREFIX=/home/chenyeke/ros_simulationfor16/ros_simulation/controller_sim/install -G Unix Makefiles
